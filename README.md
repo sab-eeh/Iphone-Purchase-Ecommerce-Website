@@ -28,6 +28,8 @@ An elegant and fully responsive full-stack web application for purchasing Apple 
 
 ---
 
+```bash
+
 ## 📂 Project Structure
 iphone-purchase-website/
 │
@@ -47,10 +49,10 @@ iphone-purchase-website/
 │
 └── README.md
 
-```bash
 git clone https://github.com/your-username/iphone-purchase-website.git
 
 cd iphone-purchase-website
+
 cd Backend
 npm install
 node sever.js 
@@ -59,3 +61,14 @@ cd Frontend
 npm install
 npm run dev
 
+```
+## 🧑‍💻 Author
+
+**Sabeeh Uddin**  
+🔗 [Portfolio](https://sabeeh-portfolio.vercel.app)  
+🐙 [GitHub](https://github.com/sab-eeh)  
+💼 [LinkedIn](https://www.linkedin.com/in/sabeeh-uddin-91464a252/)
+
+---
+
+Feel free to clone this project, explore the code, or reach out for collaboration or feedback!
