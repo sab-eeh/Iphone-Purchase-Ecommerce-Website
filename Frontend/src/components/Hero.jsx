@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import heroBg from "../assets/images/Untitled-1.JPG";
+import heroBg from "../assets/images/Untitled-1.jpg";
 
 export function Hero() {
   return (
