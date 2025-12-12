@@ -57,7 +57,7 @@ export default function Navbar() {
       transition={{ duration: 0.6 }}
       className="w-full shadow-md sticky top-0 z-50 bg-white"
     >
-      <div className="max-w-7xl mx-auto px-5 py-5 flex justify-between items-center">
+      <div className="max-w-7xl mx-auto px-5 py-8 flex justify-between items-center">
         {/* Logo */}
         <Link to="/" aria-label="Home">
           <img src={logo} alt="Apple logo" className="w-[30px]" />
